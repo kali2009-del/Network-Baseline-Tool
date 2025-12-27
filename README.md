@@ -12,7 +12,7 @@ Nmap (must be installed and accessible from the system PATH)
 Authorized access to the target system
 
 Installation
-git clone https://kali2009-del/Network-Baseline-Tool.git
+git clone https://github.com/kali2009-del/Network-Baseline-Tool.git
 cd Network-Baseline-Tool
 chmod +x Network-Baseline-Tool.py
 
